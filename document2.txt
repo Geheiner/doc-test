@@ -1,14 +1,15 @@
-(34) When end-users have provided their consent to receiving unsolicited communications for direct marketing
-purposes, they should still be able to withdraw their consent at any time in an easy manner.
-
-To facilitate effective enforcement of Union rules on unsolicited messages for direct marketing, it is
-necessary to prohibit the masking of the identity and the use of false identities, false return addresses or
-numbers while sending unsolicited commercial communications for direct marketing purposes.
-
-Unsolicited marketing communications should therefore be clearly recognizable as such and should indicate the
-identity of the legal or the natural person transmitting the communication or on behalf of whom the
-communication is transmitted and provide the necessary information for recipients to exercise their right to
-oppose to receiving further written and/or oral marketing messages.
+(34) When end-users who are natural persons have provided their consent to receiving direct marketing
+communications , they should still be able to withdraw their consent at any time in an easy manner and
+without any cost to them.
+To facilitate effective enforcement of Union rules on direct marketing communications, it is necessary to
+prohibit the masking of the identity and the use of false identities, false return addresses or numbers while
+sending direct marketing communications .
+Direct marketing communications should therefore be clearly recognizable as such and should indicate the
+identity of the legal or the natural person sending the communication and, where applicable, on whose behalf
+the communication is sent and provide the necessary information for end-users who are natural persons to
+exercise their right to withdraw their consent to receiving further direct marketing communications, such as
+valid contact details (e.g.link, e-mail address) which can be easily used by end-users who are natural
+persons to withdraw their consent free of charge.
 
 (35) In order to allow easy withdrawal of consent, legal or natural persons conducting direct marketing
 communications by email should present a link, or a valid electronic mail address, which can be easily used
